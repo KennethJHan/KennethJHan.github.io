@@ -1,7 +1,7 @@
 # Site
-name: "호야의 블로그"
-title: "호야의 블로그"
-description: "호야의 블로그입니다."
+name: "Bioinformaticist"
+title: "Bioinformaticist"
+description: "Bioinformaticist"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -10,10 +10,10 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: rkdrkd20003@naver.com
+email: kenneth.jh.han@gmail.com
 
 # Author
-author: Hoya Kang
+author: Kenneth Joohyun Han
  
 
 # Plugins
