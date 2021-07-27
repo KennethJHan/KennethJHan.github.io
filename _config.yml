@@ -1,19 +1,20 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "호야의 블로그"
+title: "호야의 블로그"
+description: "호야의 블로그입니다."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: rkdrkd20003@naver.com
 
-# Authors
-authors: Kenneth Joohyun Han
+# Author
+author: Hoya Kang
+ 
 
 # Plugins
 plugins:
