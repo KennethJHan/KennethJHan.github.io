@@ -174,7 +174,7 @@ html {
 
 body {
 	background: #fff;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Single Day', cursive;
 	font-size: 19pt;
 	font-weight: 300;
 	line-height: 1.75em;
@@ -2372,7 +2372,7 @@ button:active,
 
 #main>section.one {
 	background-color: #81918E;
-	background-image: url("../../images/main.png");
+	background-image: url("../../images/main.jpg");
 	/* background-attachment: fixed; */
 
 }
@@ -2769,4 +2769,8 @@ button:active,
 		margin-top: 0;
 	}
 
+}
+
+.header-style {
+	text-shadow: 1px 1px 1px black;
 }
