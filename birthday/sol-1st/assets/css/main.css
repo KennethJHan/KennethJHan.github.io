@@ -2373,7 +2373,7 @@ button:active,
 #main>section.one {
 	background-color: #81918E;
 	background-image: url("../../images/main.png");
-	background-attachment: fixed;
+	/* background-attachment: fixed; */
 
 }
 
